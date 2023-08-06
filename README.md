@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 我是疯子XUFUYU
-博客：<a herf="https://xufuyu.eu.org">https://xufuyu.eu.org</a>
-b 站：<a herf="https://space.bilibili.com/1669415060">https://space.bilibili.com/1669415060</a>
-ACGO：<a herf="https://www.acgo.cn/person/2484958">https://www.acgo.cn/person/2484958</a>
-洛谷：<a herf="https://www.luogu.com.cn/user/1013088">https://www.luogu.com.cn/user/1013088</a>
+博客：<a herf="https://xufuyu.eu.org">https://xufuyu.eu.org</a>/
+b 站：<a herf="https://space.bilibili.com/1669415060">https://space.bilibili.com/1669415060</a>/
+ACGO：<a herf="https://www.acgo.cn/person/2484958">https://www.acgo.cn/person/2484958</a>/
+洛谷：<a herf="https://www.luogu.com.cn/user/1013088">https://www.luogu.com.cn/user/1013088</a>/
 邮箱：<a herf="mailto:xufuyu@xufuyu.eu.org">xufuyu@xufuyu.eu.org</a>
 
 ## 今年汇总 ✨
